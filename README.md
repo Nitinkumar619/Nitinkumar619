@@ -11,7 +11,7 @@ Nitin Kumar is a driven B.Tech student specializing in Information Technology, w
 
 ---
 
-- 🔭 Currently working as **Aspiring Software Developer** at **Indian Institute of Information Technology, Allahabad**
+- 🔭 **Aspiring Software Developer** at Persuing B.Tech in Information Technology at **Indian Institute of Information Technology, Allahabad**
 - 🌱 Learning: **Advanced AI techniques and blockchain technologies**
 - 💬 Ask me about: **Retrieval-Augmented Generation, Blockchain technology, Competitive Programming**
 - 📍 Based in: **India**
